@@ -1,0 +1,28 @@
+name: 'Intuitive Guidance '
+favicon: null
+layout_spectrum: 0.4600543309934437
+typography_spectrum: 0.7411958614829928
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9969160195905715
+  lightness: 0.6054090352263302
+  saturation: 0.8931354444939643
+  rhythmicContrast: 0.28654377441853285
+purpose: []
