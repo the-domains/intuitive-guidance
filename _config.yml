@@ -1,7 +1,7 @@
 name: 'Intuitive Guidance '
 favicon: null
-layout_spectrum: 0.4600543309934437
-typography_spectrum: 0.7411958614829928
+layout_spectrum: 0.5
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
